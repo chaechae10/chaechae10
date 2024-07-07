@@ -9,12 +9,6 @@ You can click the Preview link to take a look at your changes.
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaechae10&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=radical&hide=css,html" />
   </a>
 </p>
-<h3 align="center">💡 My Git Stats 💡</h3>
-<p align="center">
-  <a href="https://github.com/chaechae10">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaechae10&hide=stars,prs&hide_title=true&show_icons=true&include_all_commits=true&theme=radical" />
-  </a>
-</p>
 
 <h3 align='center'>🌱 Beck-end Stack 🌱</h3>
 <br/>
