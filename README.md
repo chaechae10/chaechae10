@@ -27,6 +27,4 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/HTML5-blue?style=flat-square&logo=HTML5&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS3&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/JavaScript-orange?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/jQurey-yellow?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/vue.js-yellowgreen?style=flat-square&logo=vue.js&logoColor=white"/></a>
 </p>
