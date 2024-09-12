@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/aws-orange?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 </p>
 <br/>
-<hr style="height: 1px !important;">
+<hr style="height: 0.5px !important;">
 <h3 align='center'>🌱 Front-end Stack 🌱</h3>
 <p align='center'>
   <img src="https://img.shields.io/badge/HTML5-blue?style=flat-square&logo=HTML5&logoColor=white"/></a>
