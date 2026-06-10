@@ -4,9 +4,7 @@
 #### 👩‍💻 About Me
 
 - Backend Engineer & AI Engineer
-- Interested in Spring Boot, Cloud, LLM, RAG, and AI Applications
-- Passionate about building scalable backend systems and intelligent services
-- Computer Science Student at Gachon University
+- Interested in Backend, Cloud, LLM, RAG, and AI Applications
 
 #### 🌱 Work
 
